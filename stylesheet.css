@@ -1,0 +1,45 @@
+body {   
+    background-color: grey;
+}
+
+
+
+
+img {
+    border-radius: 20%;
+    width: 50%;
+    height: 25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#header{
+    background-color: hotpink;
+    text-align: center;
+    border-width: 3px;
+    border-style: dotted;
+    border-color:yellow;
+}
+
+#list {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black; 
+    padding: 51px;
+    margin-left: 35%;
+}
+
+#navlinks {
+    position: fixed;
+}
+
+#footer {
+    background-color: hotpink;
+    text-align: center;
+    border-width: 3px;
+    border-style: dotted;
+    border-color:yellow;
+}
